@@ -1,6 +1,6 @@
 Phase 1 - Bootstrap
 -------
-Input: Company name, Logo (for whitelabeling), Cname, Wild Certificate/Lego, Emails
+Input: Company name, Logo (for whitelabeling), Cname, Wildcard Certificate/Lego, Emails
 
 Start Cluster, Ingress, SSL, Autoscaling, Tags
 SSH Key
