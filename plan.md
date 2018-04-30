@@ -41,6 +41,8 @@ App Monitoring
 
 App Auth
 
+App A/B Testing - https://github.com/MAIF/izanami
+
 Phase 6
 -------
 Dashboards
