@@ -11,7 +11,9 @@ SSH Key
 
 Phase 2
 -------
-LDAP and SSO provider & Auth delegation to k8s cluster
+LDAP and SSO provider
+
+Auth delegation to k8s cluster (https://appscode.com/products/guard/0.1.1/setup/install/, https://appscode.com/products/guard/0.1.1/guides/authenticator/ldap/)
 
 Phase 3
 -------
