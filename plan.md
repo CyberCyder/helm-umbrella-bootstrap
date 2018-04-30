@@ -1,7 +1,11 @@
+Phase 0 - Cluster
+-------
+GKE/AWS/Minikube
+
+Input: Company name, Tagline, Logo (for whitelabeling), Color Scheme, Cname, Wildcard Certificate/Lego, Address, Emails, Stripe Keys
+
 Phase 1 - Bootstrap
 -------
-Input: Company name, Logo (for whitelabeling), Cname, Wildcard Certificate/Lego, Emails
-
 Start Cluster, Ingress, SSL, Autoscaling, Tags
 SSH Key
 
@@ -78,6 +82,10 @@ Data-science
 Mobile Development
 
 SaaS
+
+Online Shop
+
+Crypto Dev
 
 Consider
 --------
