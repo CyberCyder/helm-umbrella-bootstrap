@@ -12,9 +12,13 @@ LDAP and SSO provider & Auth delegation to k8s cluster
 Phase 3
 -------
 ELK
+
 Stack Monitoring
+
 Artifact Repo
+
 Docker Repo
+
 SMTP
 
 Phase 4
