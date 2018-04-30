@@ -1,6 +1,7 @@
 Phase 1
 -------
 Bootstrap, ingress and SSL
+Input: Company name, Logo (for whitelabeling), cname,
 
 Phase 2
 -------
@@ -49,6 +50,8 @@ QA & Automated Testing tools
 Shared Storage
 
 Chat
+
+Start Page
 
 Addons
 -------
