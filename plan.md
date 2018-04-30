@@ -1,7 +1,7 @@
-Phase 1
+Phase 1 - Bootstrap
 -------
-Bootstrap, ingress and SSL
-Input: Company name, Logo (for whitelabeling), cname,
+Input: Company name, Logo (for whitelabeling), Cname, Wild Certificate/Lego
+Start Cluster, Ingress, SSL, Autoscaling, Tags
 
 Phase 2
 -------
@@ -9,7 +9,10 @@ LDAP and SSO provider & Auth delegation to k8s cluster
 
 Phase 3
 -------
-Stack Monitoring/Logging
+ELK
+Stack Monitoring
+Artifact Repo
+Docker Repo
 
 Phase 4
 -------
@@ -17,7 +20,7 @@ CI/CD + Agile Project Management (Gitlab?)
 
 Phase 5
 -------
-App Seeds
+App Seeds - Preconfigure for running stack
 
 App Metrics & Event Ingestions
 
@@ -52,6 +55,14 @@ Shared Storage
 Chat
 
 Start Page
+
+CRM
+
+Wordpress - Company Website & Blog
+
+Wiki
+
+phpbb
 
 Addons
 -------
