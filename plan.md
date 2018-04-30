@@ -92,3 +92,5 @@ Consider
 Serverless frameworks support for apps and metrics related stuff.
 
 Email/Calendar Suite
+
+Webapp for launching the cluster, gathering inputs and installing chart. (client side)
