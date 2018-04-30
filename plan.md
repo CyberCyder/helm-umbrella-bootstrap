@@ -7,7 +7,6 @@ SSH Key
 Phase 2
 -------
 LDAP and SSO provider & Auth delegation to k8s cluster
-Bastion
 
 Phase 3
 -------
