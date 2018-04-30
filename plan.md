@@ -1,6 +1,7 @@
 Phase 1 - Bootstrap
 -------
-Input: Company name, Logo (for whitelabeling), Cname, Wild Certificate/Lego
+Input: Company name, Logo (for whitelabeling), Cname, Wild Certificate/Lego, Emails
+
 Start Cluster, Ingress, SSL, Autoscaling, Tags
 SSH Key
 
@@ -14,10 +15,11 @@ ELK
 Stack Monitoring
 Artifact Repo
 Docker Repo
+SMTP
 
 Phase 4
 -------
-CI/CD + Agile Project Management (Gitlab?)
+CI/CD + Agile Project Management (Gitlab - https://gitlab.com/charts/gitlab/blob/master/doc/installation/deployment.md)
 
 Phase 5
 -------
