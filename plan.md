@@ -2,10 +2,12 @@ Phase 1 - Bootstrap
 -------
 Input: Company name, Logo (for whitelabeling), Cname, Wild Certificate/Lego
 Start Cluster, Ingress, SSL, Autoscaling, Tags
+SSH Key
 
 Phase 2
 -------
 LDAP and SSO provider & Auth delegation to k8s cluster
+Bastion
 
 Phase 3
 -------
