@@ -49,7 +49,7 @@ Reporting
 
 Phase 7
 -------
-Pipelines and deployment strategies
+Pipelines and deployment strategies (green blue, canary, etc.)
 
 Phase 8
 -------
