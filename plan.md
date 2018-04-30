@@ -1,6 +1,6 @@
 Phase 0 - Cluster
 -------
-GKE/AWS/Minikube
+Rancher
 
 Input: Company name, Tagline, Logo (for whitelabeling), Color Scheme, Cname, Wildcard Certificate/Lego, Address, Emails, Stripe Keys
 
