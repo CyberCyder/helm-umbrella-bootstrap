@@ -4,7 +4,7 @@ Bootstrap, ingress and SSL
 
 Phase 2
 -------
-LDAP and SSO provider - Integration with Google Suite
+LDAP and SSO provider - Integration with Google Suite and auth delegation to k8s cluster
 
 Phase 3
 -------
